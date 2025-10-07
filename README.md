@@ -1,0 +1,2 @@
+# Sytem
+ The system consists of a central control unit (SysCtrl) managing data flow between modules, with a UART transmitter for serial communication, a TX clock divider for baud rate generation, and a reset synchronizer for reliable initialization. Power efficiency is achieved using clock gating. A register file stores operands and results, while an ALU performs arithmetic and logic operations. Data synchronization modules ensure safe data transfer across clock domains.
