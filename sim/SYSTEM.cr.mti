@@ -1,0 +1,211 @@
+{D:/Digital_Electronics/ASIC Course/System/rtl/my UART/MUX.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/MUX.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/strt_check.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/strt_check.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module strt_check
+
+Top level modules:
+	strt_check
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_Rx_FSM.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_Rx_FSM.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module RX_FSM
+
+Top level modules:
+	RX_FSM
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/DF_SYN.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/DF_SYN.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DF_SYN
+
+Top level modules:
+	DF_SYN
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/deserializer.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/deserializer.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module deserializer
+
+Top level modules:
+	deserializer
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/Stop_check.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/Stop_check.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module stop_check
+
+Top level modules:
+	stop_check
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_rd.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_rd.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module fifo_rd
+
+Top level modules:
+	fifo_rd
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TX_FSM.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TX_FSM.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module FSM
+
+Top level modules:
+	FSM
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/data_sampling.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/data_sampling.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module data_sampling
+
+Top level modules:
+	data_sampling
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/ClkDiv.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/ClkDiv.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ClkDiv
+
+Top level modules:
+	ClkDiv
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/ALUs.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/ALUs.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/DATA_SYNC.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/DATA_SYNC.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DATA_SYNC
+
+Top level modules:
+	DATA_SYNC
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_mem.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_mem.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module fifo_mem
+
+Top level modules:
+	fifo_mem
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TOP.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TOP.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module UART
+
+Top level modules:
+	UART
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/Parity_check.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/Parity_check.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module parity_check
+
+Top level modules:
+	parity_check
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/PULSE_GEN.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/PULSE_GEN.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module PULSE_GEN
+
+Top level modules:
+	PULSE_GEN
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/DF_Sync.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/DF_Sync.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DF_Sync
+
+Top level modules:
+	DF_Sync
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/clk_gating.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/clk_gating.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module CLK_GATE
+
+Top level modules:
+	CLK_GATE
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/edge_bit_counter.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/edge_bit_counter.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module edge_bit_counter
+
+Top level modules:
+	edge_bit_counter
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/serializer.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/serializer.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module serializer
+
+Top level modules:
+	serializer
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/parity_calc.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/parity_calc.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module parity_calc
+
+Top level modules:
+	parity_calc
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/Async_fifo.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/Async_fifo.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Async_fifo
+
+Top level modules:
+	Async_fifo
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/CLKDIV_MUX.v} {1 {vlog -work work -vopt -stats=none {D:\Digital_Electronics\ASIC Course\System\rtl\CLKDIV_MUX.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module CLKDIV_MUX
+
+Top level modules:
+	CLKDIV_MUX
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/RegFile.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/RegFile.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/reset_sync.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/reset_sync.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reset_sync
+
+Top level modules:
+	reset_sync
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_wr.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_wr.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module fifo_wr
+
+Top level modules:
+	fifo_wr
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/data_sampling.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/data_sampling.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module data_sampling
+
+Top level modules:
+	data_sampling
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/SYS_TOP.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/SYS_TOP.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SYS_TOP
+
+Top level modules:
+	SYS_TOP
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TX_TOP.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TX_TOP.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module UART_TX_TOP
+
+Top level modules:
+	UART_TX_TOP
+
+} {} {}} {D:/Digital_Electronics/ASIC Course/System/rtl/SYSTEM_TB.v} {1 {vlog -work work -vopt -stats=none {D:/Digital_Electronics/ASIC Course/System/rtl/SYSTEM_TB.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SYS_TOP_tb
+
+Top level modules:
+	SYS_TOP_tb
+
+} {} {}}

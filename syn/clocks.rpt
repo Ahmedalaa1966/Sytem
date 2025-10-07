@@ -1,0 +1,36 @@
+Warning: Design 'SYS_TOP' has '1' unresolved references. For more detailed information, use the "link" command. (UID-341)
+ 
+****************************************
+Report : clocks
+Design : SYS_TOP
+Version: K-2015.06
+Date   : Sat Oct  4 03:50:37 2025
+****************************************
+
+Attributes:
+    d - dont_touch_network
+    f - fix_hold
+    p - propagated_clock
+    G - generated_clock
+    g - lib_generated_clock
+
+Clock          Period   Waveform            Attrs     Sources
+--------------------------------------------------------------------------------
+ALU_CLK         20.00   {0 10}              G d       {CLK_GATE_inst/GATED_CLK}
+REF_CLK         20.00   {0 10}              d         {REF_CLK}
+RX_CLK         271.00   {0 135.5}           G d       {ClkDiv_inst_RX/o_div_clk}
+TX_CLK        8672.00   {0 4336}            G d       {ClkDiv_inst_TX/o_div_clk}
+UART_CLK       271.00   {0 135.5}           d         {UART_CLK}
+--------------------------------------------------------------------------------
+
+Generated     Master         Generated      Master         Waveform
+Clock         Source         Source         Clock          Modification
+--------------------------------------------------------------------------------
+ALU_CLK       REF_CLK        {CLK_GATE_inst/GATED_CLK}
+                                            REF_CLK        divide_by(1)
+RX_CLK        UART_CLK       {ClkDiv_inst_RX/o_div_clk}
+                                            UART_CLK       divide_by(1)
+TX_CLK        UART_CLK       {ClkDiv_inst_TX/o_div_clk}
+                                            UART_CLK       divide_by(32)
+--------------------------------------------------------------------------------
+1

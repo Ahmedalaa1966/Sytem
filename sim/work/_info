@@ -1,0 +1,1075 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/WINDOWS/system32
+T_opt
+!s110 1759411154
+V;kZ^AfABAPMF24d_CR5GH2
+04 10 4 work SYS_TOP_tb fast 0
+=1-d6a0f31bfe47-68de7bd2-172-3468
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vALU
+Z2 !s110 1759411145
+!i10b 1
+!s100 ;b3GGUP>;i`db?ajnnCBW0
+I]PT[T3@0DbhbN_O><oVez0
+Z3 dD:/Digital_Electronics/ASIC Course/System/sim
+w1758464371
+8D:/Digital_Electronics/ASIC Course/System/rtl/ALUs.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/ALUs.v
+!i122 231
+L0 1 109
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1759411145.000000
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/ALUs.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/ALUs.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@a@l@u
+vASYNC_FIFO
+Z8 !s110 1759407350
+!i10b 1
+!s100 QeINPE^b8Q<17LG3VKJC52
+IaD:g^ddW5domNB=QobVH<3
+R3
+w1758448376
+8D:/Digital_Electronics/ASIC Course/System/rtl/ASYNC_FIFO.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/ASYNC_FIFO.v
+!i122 131
+L0 1 83
+R4
+R5
+r1
+!s85 0
+31
+Z9 !s108 1759407350.000000
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/ASYNC_FIFO.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/ASYNC_FIFO.v|
+!i113 0
+R7
+R1
+n@a@s@y@n@c_@f@i@f@o
+vAsync_fifo
+Z10 !s110 1759411146
+!i10b 1
+!s100 OVWUCz23]BFMYWnbR<A]J1
+IKncUKo^3DSe4G0dBXUJ<f3
+R3
+Z11 w1758070932
+8D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/Async_fifo.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/Async_fifo.v
+!i122 257
+L0 2 78
+R4
+R5
+r1
+!s85 0
+31
+Z12 !s108 1759411146.000000
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/Async_fifo.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/Async_fifo.v|
+!i113 0
+R7
+R1
+n@async_fifo
+vCLK_GATE
+R2
+!i10b 1
+!s100 [niCcQ=f@hXoKdO?GXD6b0
+IJ5G?`BK7XX<nTTPZ08jXo0
+R3
+w1758474558
+8D:/Digital_Electronics/ASIC Course/System/rtl/clk_gating.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/clk_gating.v
+!i122 232
+L0 6 40
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/clk_gating.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/clk_gating.v|
+!i113 0
+R7
+R1
+n@c@l@k_@g@a@t@e
+vClkDiv
+R2
+!i10b 1
+!s100 R5D3b1fEK^9IN<0fj]l8R2
+I`^=eDJjOG7AHBP0`dRMf92
+R3
+w1758917582
+8D:/Digital_Electronics/ASIC Course/System/rtl/ClkDiv.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/ClkDiv.v
+!i122 233
+L0 2 64
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/ClkDiv.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/ClkDiv.v|
+!i113 0
+R7
+R1
+n@clk@div
+vCLKDIV_MUX
+R2
+!i10b 1
+!s100 EfBVMF0S1fC1NSKZcNQJL1
+I5k>a2I5ofL7I6;_G6_Z>:1
+R3
+w1759056083
+8D:\Digital_Electronics\ASIC Course\System\rtl\CLKDIV_MUX.v
+FD:\Digital_Electronics\ASIC Course\System\rtl\CLKDIV_MUX.v
+!i122 238
+L0 2 31
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:\Digital_Electronics\ASIC Course\System\rtl\CLKDIV_MUX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\Digital_Electronics\ASIC Course\System\rtl\CLKDIV_MUX.v|
+!i113 0
+R7
+R1
+n@c@l@k@d@i@v_@m@u@x
+vdata_sampling
+R10
+!i10b 1
+!s100 ZF_VEK@e28mEFT4^_EQf[1
+I8?fDg1zkhl1IZG^^XVhL?0
+R3
+w1758669344
+8D:/Digital_Electronics/ASIC Course/System/rtl/my UART/data_sampling.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/my UART/data_sampling.v
+!i122 250
+L0 25 53
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/my UART/data_sampling.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/my UART/data_sampling.v|
+!i113 0
+R7
+R1
+vDATA_SYNC
+R2
+!i10b 1
+!s100 VmH7Q_=YD8>a[:CPdeFVQ3
+I11Al?o5iK:i7I;]oMK3Fj3
+R3
+w1758918803
+8D:/Digital_Electronics/ASIC Course/System/rtl/DATA_SYNC.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/DATA_SYNC.v
+!i122 235
+L0 6 90
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/DATA_SYNC.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/DATA_SYNC.v|
+!i113 0
+R7
+R1
+n@d@a@t@a_@s@y@n@c
+vdeserializer
+R10
+!i10b 1
+!s100 ;UYiDmbaeSR2`zFcM@J?P0
+IIH?U1jE716m_72Se6IBGI2
+R3
+w1757850568
+8D:/Digital_Electronics/ASIC Course/System/rtl/my UART/deserializer.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/my UART/deserializer.v
+!i122 252
+Z13 L0 1 25
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/my UART/deserializer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/my UART/deserializer.v|
+!i113 0
+R7
+R1
+vDF_SYN
+R2
+!i10b 1
+!s100 >4mOSld;[K@T=MPzKW4ZX2
+I7<9hM;Hez1Cj2AoWNda381
+R3
+w1758292477
+8D:/Digital_Electronics/ASIC Course/System/rtl/DF_SYN.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/DF_SYN.v
+!i122 230
+R13
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/DF_SYN.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/DF_SYN.v|
+!i113 0
+R7
+R1
+n@d@f_@s@y@n
+vDF_Sync
+R10
+!i10b 1
+!s100 Q`c;LPml]mA[GSc4z<DnU0
+Ii8Iz?J_Ih@>M7K`aDdEON2
+R3
+R11
+8D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/DF_Sync.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/DF_Sync.v
+!i122 258
+L0 9 31
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/DF_Sync.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/DF_Sync.v|
+!i113 0
+R7
+R1
+n@d@f_@sync
+vedge_bit_counter
+R10
+!i10b 1
+!s100 LL0Wd3YfFbB<;9O94ZhZE1
+Ij3QOA<LNmB`654DTC=FOC0
+R3
+w1758669435
+8D:/Digital_Electronics/ASIC Course/System/rtl/my UART/edge_bit_counter.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/my UART/edge_bit_counter.v
+!i122 249
+L0 23 50
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/my UART/edge_bit_counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/my UART/edge_bit_counter.v|
+!i113 0
+R7
+R1
+vfifo_mem
+R10
+!i10b 1
+!s100 ?lOA^=8Cn6e6LOk<EPJgM0
+IXm>8FnVGmB:W4FEDW66H`1
+R3
+R11
+8D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_mem.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_mem.v
+!i122 259
+Z14 L0 1 40
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_mem.v|
+!i113 0
+R7
+R1
+vFIFO_MEM_CNTRL
+R8
+!i10b 1
+!s100 >aGbZJ22>BH`:XGaGCS;P3
+I6YG:JigeG6BLo=0O:F@9`1
+R3
+w1758449504
+8D:/Digital_Electronics/ASIC Course/System/rtl/FIFO_memory.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/FIFO_memory.v
+!i122 134
+Z15 L0 1 29
+R4
+R5
+r1
+!s85 0
+31
+R9
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/FIFO_memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/FIFO_memory.v|
+!i113 0
+R7
+R1
+n@f@i@f@o_@m@e@m_@c@n@t@r@l
+vfifo_rd
+R10
+!i10b 1
+!s100 ihnjLz?PaZYkc2b?NIk;a3
+IbeLN<]lY216[LhlY0JB9T1
+R3
+R11
+8D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_rd.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_rd.v
+!i122 260
+L0 9 54
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_rd.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_rd.v|
+!i113 0
+R7
+R1
+vFIFO_RD
+R8
+!i10b 1
+!s100 V[7BW@iQ7Q1O>5OFm24No2
+I31]OiJ8cil=CV44cfQeLB2
+R3
+w1758449048
+8D:/Digital_Electronics/ASIC Course/System/rtl/FIFO_RD.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/FIFO_RD.v
+!i122 133
+L0 1 39
+R4
+R5
+r1
+!s85 0
+31
+R9
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/FIFO_RD.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/FIFO_RD.v|
+!i113 0
+R7
+R1
+n@f@i@f@o_@r@d
+vFIFO_WR
+R8
+!i10b 1
+!s100 ]93nCOJ?mzY7A5RgNR<142
+I:XOdIF<XhVgClT_N_K]j]2
+R3
+w1758448999
+8D:/Digital_Electronics/ASIC Course/System/rtl/FIFO_WR.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/FIFO_WR.v
+!i122 132
+R14
+R4
+R5
+r1
+!s85 0
+31
+R9
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/FIFO_WR.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/FIFO_WR.v|
+!i113 0
+R7
+R1
+n@f@i@f@o_@w@r
+vfifo_wr
+R10
+!i10b 1
+!s100 LY3_Y4nDQF6@hf_X7emf13
+I=clP0f3c49^zHFJV3C6N40
+R3
+R11
+8D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_wr.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_wr.v
+!i122 261
+L0 9 56
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_wr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/fifo_refrence/fifo_wr.v|
+!i113 0
+R7
+R1
+vFSM
+R10
+!i10b 1
+!s100 Rc9_a=d]b]8PiJcgl:EU?2
+I2WkHIkBGheENT>a0zOSa22
+R3
+w1757674068
+8D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TX_FSM.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TX_FSM.v
+!i122 253
+L0 10 117
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TX_FSM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TX_FSM.v|
+!i113 0
+R7
+R1
+n@f@s@m
+vmux
+Z16 !s110 1759401935
+!i10b 1
+!s100 z4gGIE?_z;??i8>[e5Rf>1
+IA2ccMViZ8IR7g:Rz6@@l[3
+R3
+Z17 w1758070916
+8D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/mux.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/mux.v
+!i122 116
+L0 2 49
+R4
+R5
+r1
+!s85 0
+31
+Z18 !s108 1759401935.000000
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/mux.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/mux.v|
+!i113 0
+R7
+R1
+vMUX
+R10
+!i10b 1
+!s100 Thg6a^bZ@KzPXV^WHVJY31
+I4e6GPATWmF=Q]oEJP6M_N3
+R3
+w1757673766
+8D:/Digital_Electronics/ASIC Course/System/rtl/my UART/MUX.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/my UART/MUX.v
+!i122 255
+R15
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/my UART/MUX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/my UART/MUX.v|
+!i113 0
+R7
+R1
+n@m@u@x
+vpar_chk
+R16
+!i10b 1
+!s100 k]`:kc45:L[:HDN7VI=[12
+Ini44^51WXT`KHAbc]T6?E2
+R3
+R17
+8D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/par_chk.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/par_chk.v
+!i122 117
+L0 2 44
+R4
+R5
+r1
+!s85 0
+31
+R18
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/par_chk.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/par_chk.v|
+!i113 0
+R7
+R1
+vparity_calc
+R10
+!i10b 1
+!s100 Z?lYI1Ki<ajSXS8Nh3=c00
+II8BBVnz@?@iZ27R;82KTj1
+R3
+w1757635952
+8D:/Digital_Electronics/ASIC Course/System/rtl/my UART/parity_calc.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/my UART/parity_calc.v
+!i122 256
+Z19 L0 1 44
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/my UART/parity_calc.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/my UART/parity_calc.v|
+!i113 0
+R7
+R1
+vparity_check
+R2
+!i10b 1
+!s100 jDg[>CPANoaLFk^6Pc:N]0
+Il4E8EkWVZEg]SWHAEokIm3
+R3
+w1758669794
+8D:/Digital_Electronics/ASIC Course/System/rtl/my UART/Parity_check.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/my UART/Parity_check.v
+!i122 247
+L0 25 35
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/my UART/Parity_check.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/my UART/Parity_check.v|
+!i113 0
+R7
+R1
+vPULSE_GEN
+R2
+!i10b 1
+!s100 jfm0G0M7]ag0nf@EPV47a2
+IFeUFL2>BBIbkPgLHmWDF[0
+R3
+w1759057196
+8D:/Digital_Electronics/ASIC Course/System/rtl/PULSE_GEN.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/PULSE_GEN.v
+!i122 239
+L0 1 30
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/PULSE_GEN.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/PULSE_GEN.v|
+!i113 0
+R7
+R1
+n@p@u@l@s@e_@g@e@n
+vRegFile
+R2
+!i10b 1
+!s100 hcRbD]?Z@i3UJCaARQih;2
+IFJ?ggk[4[@[YPBN4Zi0Mm1
+R3
+w1759411080
+8D:/Digital_Electronics/ASIC Course/System/rtl/RegFile.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/RegFile.v
+!i122 237
+L0 2 60
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/RegFile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/RegFile.v|
+!i113 0
+R7
+R1
+n@reg@file
+vreset_sync
+R2
+!i10b 1
+!s100 d0eMNDCFXBA3Y_c1eINmn0
+ISRDCz3eWjeWFhRAY[`m<30
+R3
+w1758918637
+8D:/Digital_Electronics/ASIC Course/System/rtl/reset_sync.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/reset_sync.v
+!i122 234
+L0 1 20
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/reset_sync.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/reset_sync.v|
+!i113 0
+R7
+R1
+vRX_FSM
+R2
+!i10b 1
+!s100 VV:7nkYnJHW_l8CX8c1m80
+I5P0zoZHObX2[jmbf[mPZa1
+R3
+w1758669864
+8D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_Rx_FSM.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_Rx_FSM.v
+!i122 245
+L0 38 164
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_Rx_FSM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_Rx_FSM.v|
+!i113 0
+R7
+R1
+n@r@x_@f@s@m
+vRX_test
+!s110 1759059088
+!i10b 1
+!s100 :bOIbE][Ymm:BE[=ZkNF22
+IB0RzMZ0^Qzaa>IMNk<Nn00
+R3
+w1758666945
+8D:/Digital_Electronics/ASIC Course/System/rtl/RX_test.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/RX_test.v
+!i122 46
+L0 1 401
+R4
+R5
+r1
+!s85 0
+31
+!s108 1759059088.000000
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/RX_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/RX_test.v|
+!i113 0
+R7
+R1
+n@r@x_test
+vserializer
+R10
+!i10b 1
+!s100 ;Z_1>]b^G2=4HO8iY=]k[2
+IBE]4?=f?3AVQe2R2JK>J40
+R3
+w1757673797
+8D:/Digital_Electronics/ASIC Course/System/rtl/my UART/serializer.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/my UART/serializer.v
+!i122 254
+R19
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/my UART/serializer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/my UART/serializer.v|
+!i113 0
+R7
+R1
+vSerializer
+R16
+!i10b 1
+!s100 ?8@GSD=TPUZSDWg>eB?YF3
+IXzi;W[@`bPkjI=i=3RI2j2
+R3
+R17
+8D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/Serializer.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/Serializer.v
+!i122 119
+L0 2 59
+R4
+R5
+r1
+!s85 0
+31
+R18
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/Serializer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/Serializer.v|
+!i113 0
+R7
+R1
+n@serializer
+vstop_check
+R10
+!i10b 1
+!s100 DW^Yo<^Jl1LK2XAeX^NSL2
+I0adSn_DiogQ=R9n@2K[;d0
+R3
+w1758669553
+8D:/Digital_Electronics/ASIC Course/System/rtl/my UART/Stop_check.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/my UART/Stop_check.v
+!i122 248
+L0 20 21
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/my UART/Stop_check.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/my UART/Stop_check.v|
+!i113 0
+R7
+R1
+vstp_chk
+R16
+!i10b 1
+!s100 hc?_ZE9hK9XH2?QH:82>A0
+Id32gP<?_Sz2;>2IYX8Um`1
+R3
+R17
+8D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/stp_chk.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/stp_chk.v
+!i122 120
+Z20 L0 2 26
+R4
+R5
+r1
+!s85 0
+31
+R18
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/stp_chk.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/stp_chk.v|
+!i113 0
+R7
+R1
+vstrt_check
+R2
+!i10b 1
+!s100 :DjCY^=EQgXgh94[cz7Qa3
+IIV]742E1a3CM3=J2Ub<1l0
+R3
+w1758669831
+8D:/Digital_Electronics/ASIC Course/System/rtl/my UART/strt_check.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/my UART/strt_check.v
+!i122 246
+L0 20 23
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/my UART/strt_check.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/my UART/strt_check.v|
+!i113 0
+R7
+R1
+vstrt_chk
+R16
+!i10b 1
+!s100 3NRTcdXbFI:ZR?jKMUAXX0
+I`;V1E<ieRlMOMUGm0A>JK3
+R3
+R17
+8D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/strt_chk.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/strt_chk.v
+!i122 121
+R20
+R4
+R5
+r1
+!s85 0
+31
+R18
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/strt_chk.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/strt_chk.v|
+!i113 0
+R7
+R1
+vSYS_CNTRL
+R2
+!i10b 1
+!s100 g4=O:fdRH[ZiA_8DEjf>73
+I]GW6DjOI9aQY^kB2c`hlf2
+R3
+w1758919339
+8D:/Digital_Electronics/ASIC Course/System/rtl/SYS_CNTRL.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/SYS_CNTRL.v
+!i122 236
+L0 1 320
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/SYS_CNTRL.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/SYS_CNTRL.v|
+!i113 0
+R7
+R1
+n@s@y@s_@c@n@t@r@l
+vSYS_TOP
+R2
+!i10b 1
+!s100 C?j;iCEoZiRW==85cmiOK2
+IRU[AOkJ03UcJ^GRXTHTPN0
+R3
+w1759409186
+8D:/Digital_Electronics/ASIC Course/System/rtl/SYS_TOP.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/SYS_TOP.v
+!i122 241
+L0 1 278
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/SYS_TOP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/SYS_TOP.v|
+!i113 0
+R7
+R1
+n@s@y@s_@t@o@p
+vSYS_TOP_tb
+R2
+!i10b 1
+!s100 IJ;;a<VaC8DDOmF;1XQCi1
+I[0kX9jFQaS18[PP[]UJO^3
+R3
+w1759411058
+8D:/Digital_Electronics/ASIC Course/System/rtl/SYSTEM_TB.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/SYSTEM_TB.v
+!i122 240
+L0 3 112
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/SYSTEM_TB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/SYSTEM_TB.v|
+!i113 0
+R7
+R1
+n@s@y@s_@t@o@p_tb
+vtb_ASYNC_FIFO
+R8
+!i10b 1
+!s100 mCHNZVZ;LOOR0:Oj0]O?]2
+I[mjN]X:b?ilf_;z9V_;9f0
+R3
+w1758450679
+8D:/Digital_Electronics/ASIC Course/System/rtl/FIFO_tb.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/FIFO_tb.v
+!i122 135
+L0 1 112
+R4
+R5
+r1
+!s85 0
+31
+R9
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/FIFO_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/FIFO_tb.v|
+!i113 0
+R7
+R1
+ntb_@a@s@y@n@c_@f@i@f@o
+vUART
+R2
+!i10b 1
+!s100 SLlUe4UL=AmGho;DHCFmG3
+Io4Y5@<hoM0f6=PF4FBc7j0
+R3
+w1759053541
+8D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TOP.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TOP.v
+!i122 243
+L0 1 47
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TOP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TOP.v|
+!i113 0
+R7
+R1
+n@u@a@r@t
+vUART_RX
+R16
+!i10b 1
+!s100 G[QhQ@Fb74DFT6PiNbHNZ2
+ID83X8ghM4Ag?>]K9jb=ZC0
+R3
+R17
+8D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/UART_RX.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/UART_RX.v
+!i122 122
+L0 2 107
+R4
+R5
+r1
+!s85 0
+31
+R18
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/UART_RX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/UART_RX.v|
+!i113 0
+R7
+R1
+n@u@a@r@t_@r@x
+vuart_rx_fsm
+R16
+!i10b 1
+!s100 _>z1;Z>HI`;9PP9>:YYl43
+I]c[lzB@YA?fkSnU0X9<gj0
+R3
+R17
+8D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/uart_rx_fsm.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/uart_rx_fsm.v
+!i122 123
+L0 2 232
+R4
+R5
+r1
+!s85 0
+31
+R18
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/uart_rx_fsm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/uart_rx_fsm.v|
+!i113 0
+R7
+R1
+vUART_RX_TOP
+R10
+!i10b 1
+!s100 h20aW7_j53lkiHGIhX8ao2
+I>gHZT^<N>W3LUS?@Wik?i2
+R3
+w1758197118
+8D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_RX_TOP.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_RX_TOP.v
+!i122 251
+L0 1 103
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_RX_TOP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_RX_TOP.v|
+!i113 0
+R7
+R1
+n@u@a@r@t_@r@x_@t@o@p
+vUART_TX
+R16
+!i10b 1
+!s100 HBMKIed:LgLX;Fm1hFhC>3
+Ia>fahY;:ENoi;n9WBaH5a0
+R3
+R17
+8D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/UART_TX.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/UART_TX.v
+!i122 124
+L0 2 67
+R4
+R5
+r1
+!s85 0
+31
+R18
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/UART_TX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/UART_TX.v|
+!i113 0
+R7
+R1
+n@u@a@r@t_@t@x
+vuart_tx_fsm
+R16
+!i10b 1
+!s100 4FSC8>PJdJmiV@mB0M2I11
+IdLY^ABiST6FVNJA7cc5lk0
+R3
+R17
+8D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/uart_tx_fsm.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/uart_tx_fsm.v
+!i122 125
+L0 2 135
+R4
+R5
+r1
+!s85 0
+31
+R18
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/uart_tx_fsm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/Refrence UART/uart_tx_fsm.v|
+!i113 0
+R7
+R1
+vUART_TX_TOP
+R2
+!i10b 1
+!s100 M2SWPL1g6j0jYVdWPR?8n1
+IQgBLTm;=;2PGQ1FY?nzJS1
+R3
+w1759053272
+8D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TX_TOP.v
+FD:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TX_TOP.v
+!i122 244
+L0 1 73
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TX_TOP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital_Electronics/ASIC Course/System/rtl/my UART/UART_TX_TOP.v|
+!i113 0
+R7
+R1
+n@u@a@r@t_@t@x_@t@o@p

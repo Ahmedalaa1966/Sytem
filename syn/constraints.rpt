@@ -1,0 +1,102 @@
+Warning: Design 'SYS_TOP' has '1' unresolved references. For more detailed information, use the "link" command. (UID-341)
+ 
+****************************************
+Report : constraint
+        -all_violators
+Design : SYS_TOP
+Version: K-2015.06
+Date   : Sat Oct  4 03:50:37 2025
+****************************************
+
+
+   max_transition
+
+                             Required        Actual
+   Net                      Transition     Transition        Slack
+   -----------------------------------------------------------------
+   SYNC_REF_RST                 1.50           1.66          -0.16  (VIOLATED)
+       PIN :   DATA_SYNC_inst/sync_bus_reg[0]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   DATA_SYNC_inst/sync_bus_reg[1]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   DATA_SYNC_inst/sync_bus_reg[2]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   DATA_SYNC_inst/sync_bus_reg[3]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   DATA_SYNC_inst/sync_bus_reg[4]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   DATA_SYNC_inst/sync_bus_reg[5]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   DATA_SYNC_inst/sync_bus_reg[6]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   DATA_SYNC_inst/sync_bus_reg[7]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   DATA_SYNC_inst/enable_pulse_d_reg/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   DATA_SYNC_inst/enable_flop_reg/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   DATA_SYNC_inst/sync_reg_reg[1]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   DATA_SYNC_inst/sync_reg_reg[0]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   reset_sync_inst1/sync_reg_reg[0]/Q
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   Async_fifo_inst/U1/A
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/ALU_OUT_reg[0]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/ALU_OUT_reg[1]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/ALU_OUT_reg[2]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/ALU_OUT_reg[3]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/ALU_OUT_reg[15]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/ALU_OUT_reg[14]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/ALU_OUT_reg[13]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/ALU_OUT_reg[12]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/ALU_OUT_reg[4]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/ALU_OUT_reg[11]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/ALU_OUT_reg[10]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/ALU_OUT_reg[8]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/ALU_OUT_reg[9]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/ALU_OUT_reg[7]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/ALU_OUT_reg[6]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/ALU_OUT_reg[5]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   ALU_inst/OUT_VALID_reg/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   RegFile_inst/U3/A
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   system_control/cs_reg[0]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   system_control/cs_reg[3]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   system_control/cs_reg[2]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   system_control/cs_reg[1]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   system_control/Adrress_reg[2]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   system_control/Adrress_reg[1]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   system_control/Adrress_reg[0]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+       PIN :   system_control/Adrress_reg[3]/RN
+                                1.50           1.66          -0.16  (VIOLATED)
+
+   -----------------------------------------------------------------
+   Total                      1                  -0.16  
+
+1
